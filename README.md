@@ -25,14 +25,3 @@ Create API:
 GET /courses/cheap
 
 Return all courses having fees less than 5000.
-
-npm init -y
-npm install express mongoose dotenv
-npm install nodemon --save-dev
-
-{
-  "courseName": "Node.js",
-  "trainer": "John Doe",
-  "duration": 30,
-  "fees": 4500
-}
